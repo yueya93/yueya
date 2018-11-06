@@ -1,0 +1,4 @@
+以下数据下载需要与数据拥有方签署协议。请具体查看要求：
+
+http://aolpr.ntust.edu.tw/lab/download.html
+http://www.ssig.dcc.ufmg.br/ssig-segplate-database/
